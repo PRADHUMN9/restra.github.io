@@ -1,0 +1,87 @@
+body{
+	font-family: 'Black Han Sans', sans-serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;
+background-position: center;
+back}
+
+.table .container-fluid{
+	background:#666;
+	height:200px;
+	width:100%;
+}
+
+.table hr{
+	border:none;
+	margin-top:0px;
+	
+}
+
+.table h2{
+	color:#fff;}
+	
+.table h3{
+	color:#fff;}
+	
+select{
+	font-family: 'Black Han Sans', sans-serif;
+	font-family: 'Dosis', sans-serif;
+	font-family: 'Nanum Gothic', sans-serif;
+	border-radius:3px;
+	padding:10px 0px;
+	padding-right:30px;
+	padding-left:4px;
+	color:#565656;
+	width:200px;
+	font-size:16px;
+	margin-left:00px;
+	font-weight:400;	
+	}
+	
+.date input[type="date"]{
+	font-family: 'Black Han Sans', sans-serif;
+	font-family: 'Dosis', sans-serif;
+	font-family: 'Nanum Gothic', sans-serif;
+	border-radius:0px;
+	color:#565656;
+	width:180px;
+	font-size:16px;
+	font-weight:400;
+    margin-left: 10px;
+    height: 41px;
+}
+
+.time{
+	
+	width:200px;
+	font-weight:400;
+   }
+
+.go input[type="submit"]{
+	font-family: 'Black Han Sans', sans-serif;
+	font-family: 'Dosis', sans-serif;
+	font-family: 'Nanum Gothic', sans-serif;
+	font-weight:600;
+	border-radius:3px;
+	color:#FFF;
+	width:150%;
+	font-size:20px;
+	font-weight:400;
+    margin-left: 4px;
+	}
+	
+
+.panel-footer{
+	background:#666;
+	height:70px;
+}
+
+
+.feed .emoji{
+	padding:20px;
+
+textarea{
+	width:80%;
+	padding:10px 10px;
+	
+}

@@ -1,0 +1,363 @@
+.aboutus{
+	background-color:#fff;	
+	margin-bottom:50px;
+	margin-top:130px;
+	}
+	
+.aboutus hr{
+border:none;
+	}
+	
+.intro-text{
+	font-family: 'Dancing Script', cursive;
+	color:#C30;
+	margin-top:0px;
+	font-size:35px;
+	font-weight:700;
+	border:none;
+	border:#009;
+}
+
+.intro-text strong{
+	font-family: 'Great Vibes', cursive;
+	font-size:30px;
+	font-weight:400;
+	color:#000;}
+	
+
+	
+.media{
+	padding:20px;
+	}
+	
+	
+.media-body p{
+	text-align:center;
+	display:block;
+	padding:5px 60px;
+	margin:10px 240px;
+	font-size:14px;
+	margin-top:10px;
+	}
+
+.menus{
+	background:#000;
+	padding:20px;
+	height:600px;
+	margin-top:120px;
+}
+
+.menus hr{
+	border:none;}
+	
+
+.menus .intro-text{
+	font-family: 'Dancing Script', cursive;
+	color:#C30;
+	margin-top:0px;
+	font-size:35px;
+	font-weight:700;
+	border:none;
+	border:#009;
+}
+
+.menus .intro-text strong{
+	color:#CDCDCD;
+	font-family: 'Great Vibes', cursive;
+	font-size:30px;
+	font-weight:400;
+	}
+
+	
+.menus .content-wrapper{
+	width:100%;
+	margin: 40px auto;
+	padding:20px;
+	}
+	
+.menus .content-wrapper img{
+	height:300px;
+}
+	
+.menus .text-wrapper h3{
+	font-family: 'Black Han Sans', sans-serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;
+	position:absolute;
+	color:#fff;
+	top:50%;
+	transform:translateY(-50%);
+	text-align:center;
+	width:100%;
+	font-weight:bold;
+	font-size:40px;
+	}
+	
+.contactus{
+	margin-top:0px;
+	height:100vh;
+	width:100%;
+	padding:30px;
+	background:url(../img/16.jpg);
+	opacity:0.9;
+	background-size:cover;
+	background-position:center;
+	margin-top:109px;
+			}	
+
+.contactus hr{
+border:none;
+	}
+	
+.contactus .intro-text{
+	color:#fff;
+	margin-top:-20px;
+	font-size:35px;
+	font-weight:700;
+	border:none;
+	border:#009;
+	
+}
+
+.contactus .intro-text strong{
+	font-size:30px;
+	font-weight:400;
+	color:#000;}
+	
+.contactus .row{
+}
+			
+.contactus .jumbotron{
+	padding:20px;
+	width:50%;
+	background:#FFF0;
+	text-align:center;
+	margin-left:22%;
+	margin-top:0px;
+	}		
+		
+
+.contactus .contitem{
+	width:100%;
+	padding-right:0px; 
+	margin-right:-80px;
+}
+
+.contactus .details{
+	color:#fff;
+	line-height:22px;
+}
+
+.contactus .details p{
+	font-size:20px;
+	font-family: 'Dancing Script', cursive;
+	
+}
+
+.contactus .details a{
+	color:#CF0;
+}
+
+	
+.contactus form p{
+	font-size:22px;
+	color:#fff;
+	font-weight:500;
+	font-family: 'Dancing Script', cursive;
+	}
+
+.contactus input{
+	width:50%;
+	margin-bottom:8px;
+	margin-top:-5px;}
+
+.contactus input[type="text"], input[type="email"]
+ {
+	width:100%;
+	color:#36F;
+	font-size:14px;	
+	overflow:hidden;
+	height:25px;
+	padding:8px;
+}
+
+.contactus input[type="message"]{
+	height:50px;
+	width:100%;
+	padding:8px;
+	font-size:14px;}
+	
+.contactus input[type="submit"]{
+	width:150px;
+	font-size:18px;
+	background:#990;
+	color:#fff;
+	padding:5px;
+	height:40px;
+	margin-left:90px;
+	margin-top:15px;
+	}
+	
+	
+	
+	.aboutus hr{
+border:none;
+	}
+	
+.intro-text{
+	font-family: 'Dancing Script', cursive;
+	color:#C30;
+	margin-top:0px;
+	font-size:35px;
+	font-weight:700;
+	border:none;
+	border:#009;
+}
+
+.intro-text strong{
+	font-family: 'Great Vibes', cursive;
+	font-size:30px;
+	font-weight:400;
+	color:#000;}
+
+
+.reservationtable{
+	background:url(../img/15.jpg);
+	opacity:0.9;
+	background-size:cover;
+	background-position:center;
+	height:auto;
+	width:100%;
+	margin-bottom:0px;
+	padding:30px;
+	margin-top:118px;}	
+	
+.reservationtable .jumbotron{
+	height:200px;
+	padding:30px;
+	width:50%;
+	margin-left:25%;
+	text-align:center;
+	background:#fff9;
+	border-radius:0px;
+}
+
+.reservationtable .jumbotron p{
+	font-size:18px;
+	color:#000;
+	font-weight:300;
+}
+
+.reservationtable .jumbotron input[type="submit"]{
+	background:#0009;
+	width:150px;
+	}
+
+#f{
+height:100px;
+width:100px;
+border:1px solid blue;
+position:fixed;
+left:-785px;
+background-color:#3939;
+}
+	
+.reservationtable .media{
+	background:#0004;
+	text-align:center;
+	padding-left:100px;
+	padding-right:100px;}
+	
+.reservationtable .media .panel-heading{
+	color:#fff;
+	font-size:24px;
+	background:#000;
+	width:250px;
+	margin-bottom:10px;
+	margin-top:10px;
+	margin-left:35%;
+	
+	}
+
+.reservationtable .media .panel-body{
+	background:#0001;
+	padding:20px;
+	padding-left:100px;
+	padding-right:100px;
+	}
+	
+.reservationtable .media .panel-body p{
+	color:#fff;}
+
+	
+	
+	
+.reservationtable hr{
+	border:none;}
+	
+
+.reservationtable .intro-text{
+	font-family: 'Dancing Script', cursive;
+	color:#C30;
+	margin-top:0px;
+	font-size:35px;
+	font-weight:700;
+	border:none;
+	border:#009;
+}
+
+.gallery{
+	background:#000;
+	width:100%;
+	margin-top:150px;
+    margin-bottom: 10px;
+	}
+
+.gallery .jumbotron{
+	background:none;
+    float: left;}
+	
+.gallery .row{
+	padding:20px;}
+
+.gallery .row a{
+	padding:10px;}
+
+.gallery .row a:hover{
+	transform: scale(1.1);
+}
+	
+.gallery img{
+	width: 340px;
+    height: 250;
+	padding:2px;
+	margin-left:10px;}
+
+
+.orderonline{
+	background:url(../img/f3.jpg);
+	background-size: cover;
+	width:100%;
+	margin-top:120px;
+	padding: 20px;
+	}
+
+.cont{
+	
+}
+
+
+.cont a{
+font-size:20px;
+font-weight:800;
+border: 1.5 solid black;
+}
+
+.cont a strong{
+	font-size: 22px;
+	font-weight: 600;
+}
+
+.cont a:hover{
+
+}

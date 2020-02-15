@@ -1,0 +1,405 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: 'Black Han Sans', sans-serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;}
+
+
+.navigation .a a{
+
+}
+
+.navigation .admin a{
+	font-family: 'Black Han Sans', sans-serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;
+	background:#0007;
+	border-radius:5px;
+	font-size:15px;
+	padding:5px 10px;
+	color:#000;
+	text-decoration:none;
+	margin-left:63%;
+	}
+
+.navigation .a .admin a:hover{
+	color:#3F0;
+	}
+
+	
+.navigation .logo a{
+	margin-top:10px;
+	margin-left:70px;}
+	
+.navigation .logo img
+{
+	height:120px;
+	width:150px;
+	margin-top:-40px;}
+
+.navigation .navbar-default{
+	background:#0FF;
+	}
+
+.navigation .b ul{
+	list-style:none;
+	display:inline-block;
+	margin-top:0px;}
+
+.navigation .b ul li{
+	float:left;
+	display:block;
+	padding:0px 20px;
+	padding-top:15px;
+	padding-bottom:5px;
+	margin-left:10px;
+	margin-top:20px;}
+
+.navigation .b ul li a{
+	font-size:14px;
+	font-weight:600px;
+	color:#004040;
+	font-weight:600;}
+
+.navigation .b ul li a:hover{
+	color:#979797;
+}
+
+.navigation .b ul .active{
+	background:#993;
+	border:2px solid #fff;
+	font-size:15px;}
+	
+section.sec1{
+	width:100%;
+	height:100vh;
+	background:url(../img/7.jpg);
+	background-color:transparent;
+	background-size:cover;
+	background-position:center;
+}
+
+
+.aboutus{
+	background-color:#fff;	
+	margin-bottom:30px;
+	}
+	
+.aboutus hr{
+border:none;
+	}
+	
+.intro-text{
+	font-family: 'Dancing Script', cursive;
+	color:#C30;
+	margin-top:0px;
+	font-size:35px;
+	font-weight:700;
+	border:none;
+	border:#009;
+}
+
+.intro-text strong{
+	font-family: 'Great Vibes', cursive;
+	font-size:30px;
+	font-weight:400;
+	color:#000;}
+	
+
+	
+.media{
+	padding:20px;
+	}
+	
+.media img{
+	height:350px;
+	width:410px;
+	}
+
+.media-body h3{
+	text-align:center;
+	}
+	
+.media-body p{
+	text-align:center;
+	display:block;
+	padding:5px 60px;
+	margin:10px 240px;
+	font-size:14px;
+	}
+	
+	  
+.wrapper{
+	width:100%;}	  
+	  
+.menus{
+	background:#000;
+	padding:20px;
+	height:600px;
+	
+}
+
+.menus hr{
+	border:none;}
+	
+.menus .intro-text strong{
+	color:#CDCDCD;}
+
+.menus .content-wrapper{
+	width:100%;
+	margin: 40px auto;
+	padding:20px;
+	}
+	
+.menus .content-wrapper img{
+	height:300px;
+}
+	
+.menus .text-wrapper h3{
+	position:absolute;
+	color:#fff;
+	top:50%;
+	transform:translateY(-50%);
+	text-align:center;
+	width:100%;
+	font-weight:bold;
+	font-size:40px;
+	}
+
+.aboutus .auimg {
+padding:10px;
+margin-left:0%;
+}
+	
+.aboutus .auimg img{
+	height:250px;
+	width:50%;
+	padding:0px;
+	}
+	
+.contactus{
+	margin-top:0px;
+	height:107vh;
+	width:100%;
+	padding:30px;
+	background:url(../img/16.jpg);
+	opacity:0.9;
+	background-size:cover;
+	background-position:center;
+    margin-bottom: -100px;
+			}	
+
+.contactus hr{
+border:none;
+	}
+	
+.contactus .intro-text{
+	color:#fff;
+	margin-top:-20px;
+	font-size:35px;
+	font-weight:700;
+	border:none;
+	border:#009;
+	
+}
+
+.contactus .intro-text strong{
+	font-size:30px;
+	font-weight:400;
+	color:#000;}
+	
+.contactus .row{
+}
+			
+.contactus .jumbotron{
+	padding:20px;
+	width:50%;
+	background:#FFF0;
+	text-align:center;
+	margin-left:22%;
+	margin-top:0px;
+	}		
+		
+
+.contactus .contitem{
+	width:100%;
+	padding-right:0px; 
+	margin-right:-80px;
+}
+
+.contactus .details{
+	color:#fff;
+	line-height:22px;
+}
+
+.contactus .details p{
+	font-size:20px;
+	font-family: 'Dancing Script', cursive;
+	
+}
+
+.contactus .details a{
+	color:#CF0;
+}
+
+.contactus form{
+	text-align:left;
+}
+	
+.contactus form p{
+	font-size:22px;
+	color:#fff;
+	font-weight:500;
+	font-family: 'Dancing Script', cursive;
+	}
+
+.contactus input{
+	width:50%;
+	margin-bottom:8px;
+	margin-top:-5px;}
+
+.contactus input[type="text"], input[type="email"]
+ {
+	width:100%;
+	color:#36F;
+	font-size:14px;	
+	overflow:hidden;
+	height:25px;
+	padding:8px;
+}
+
+.contactus input[type="message"]{
+	height:50px;
+	width:100%;
+	padding:8px;
+	font-size:14px;}
+	
+.contactus input[type="submit"]{
+	width:150px;
+	font-size:18px;
+	background:#990;
+	color:#fff;
+	padding:5px;
+	height:40px;
+	margin-left:90px;
+	margin-top:15px;
+	}
+	
+	
+.reservationtable{
+	background:url(../img/15.jpg);
+	opacity:0.9;
+	background-size:cover;
+	background-position:center;
+	height:auto;
+	width:100%;
+	margin-bottom:40px;
+	padding:30px;}	
+	
+.reservationtable .jumbotron{
+	height:200px;
+	padding:30px;
+	width:50%;
+	margin-left:25%;
+	text-align:center;
+	background:#fff9;
+	border-radius:0px;
+}
+
+.reservationtable .jumbotron p{
+	font-size:18px;
+	color:#000;
+	font-weight:300;
+}
+
+.reservationtable .jumbotron input[type="submit"]{
+	background:#0009;
+	width:150px;
+	}
+	
+.reservationtable .media{
+	background:#0004;
+	text-align:center;
+	padding-left:100px;
+	padding-right:100px;}
+	
+.reservationtable .media .panel-heading{
+	color:#fff;
+	font-size:24px;
+	background:#000;
+	width:250px;
+	margin-bottom:10px;
+	margin-top:10px;
+	margin-left:35%;
+	
+	}
+
+.reservationtable .media .panel-body{
+	background:#0001;
+	padding:20px;
+	padding-left:100px;
+	padding-right:100px;
+	}
+	
+.reservationtable .media .panel-body p{
+	color:#fff;}
+
+.gallery{
+	background:#fff;
+	width:100%;
+	}
+
+.gallery img{
+	width: 340px;
+    height: 250;
+	padding:2px;
+	margin-left:8px;}
+	
+.gallery .jumbotron{
+	background:none;
+    float: left;}
+	
+.gallery .row{
+	padding:20px;}
+
+.gallery .row a{
+	padding:10px;}
+
+.panel-footer{
+	height:80px;
+	background:#666;
+	border:none;
+	margin-top:0px;
+	padding:15px;}
+	
+.conf a{
+	font-size:20px;
+	color#fff;}
+	
+.conf i{
+	margin-left:15px;
+	font-size:20px;
+	color:#fff;}
+	
+
+#anchor{
+	font-family: 'Great Vibes', cursive;
+	color:#fff;
+	padding:20px;
+	font-size:28px;
+	margin-left:0px;
+	}
+	
+		@media screen and (max-width:768px)
+	{
+
+nav{
+	width:100%;
+	height:80px;
+	padding:10px 100px;
+	box-sizing:border-box;
+	transition: .3s;
+}
+
+

@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: 'Black Han Sans', sans-serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;}
+
+
+.navigation .a a{
+
+}
+
+.navigation .a .admin a{
+	font-family: 'Black Han Sans', sans-serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;
+	background:#0007;
+	border-radius:5px;
+	font-size:15px;
+	padding:5px 10px;
+	color:#fff;
+	text-decoration:none;
+	margin-left:65%;
+	}
+
+.navigation .a .admin a:hover{
+	color:#3F0;
+	}
+
+	
+.navigation .logo a{
+	margin-top:10px;
+	margin-left:70px;}
+	
+.navigation .logo img
+{
+	height:150px;
+	width:180px;
+	margin-top:-40px;}
+
+.navigation .navbar-default{
+	background:#0FF;
+	}
+
+.navigation .b ul{
+	list-style:none;
+	display:inline-block;
+	margin-top:0px;}
+
+.navigation .b ul li{
+	float:left;
+	display:block;
+	padding:0px 20px;
+	padding-top:15px;
+	padding-bottom:5px;
+	margin-left:15px;
+	margin-top:20px;}
+
+.navigation .b ul li a{
+	font-size:14px;
+	font-weight:600px;
+	color:#004040;
+	font-weight:600;}
+
+.navigation .b ul li a:hover{
+	color:#979797;
+}
+
+.navigation .b ul li a:active{
+	font-size:15px;}
+
+
+
+
+	
+.modal-footer{
+	background:#D6D6D6;
+	height:80vh;
+	width:100%;
+	padding:40px;
+	}
+
+.modal-footer .map{
+	opacity:0.8;
+	width:100%;
+	padding:50px;
+	margin-top:15px;}	
+	
+.modal-footer .map:hover{
+	opacity:1;	
+	}
+
+.panel-footer{
+	height:80px;
+	background:#666;
+	border:none;
+	margin-top:0px;
+	padding:15px;}
+	
+.conf a{
+	font-size:20px;
+	color#fff;}
+	
+.conf i{
+	margin-left:15px;
+	font-size:20px;
+	color:#fff;}
+	
+
+#anchor{
+	font-family: 'Great Vibes', cursive;
+	color:#fff;
+	padding:20px;
+	font-size:28px;
+	margin-left:0px;
+	}

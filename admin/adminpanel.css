@@ -1,0 +1,214 @@
+*{
+	margin:0px;
+	padding:0px;}
+	
+body{
+	background:skyblue;
+}
+
+#header{
+	margin-left:250px;
+	width:960px;
+	height:80px;
+	background:#333;
+	box-shadow:0px 2px 4px gray;
+}
+
+#navbar{
+
+	height:80px;
+	float:right;
+	
+}
+
+#navbar>li{
+	width:190px;
+	float:left;
+	list-style:none;
+	border-right:1px solid gray;
+	border-left:1px solid gray;
+	}
+	
+
+li>a:hover, li>a:focus{
+	background:skyblue; color:#333;}
+	
+#section{
+	width:960px;
+	height:1000px;
+	margin:0px auto;
+	background:#fff;
+}
+
+#message_bar{
+	width:100%;
+	height:3%;
+	background:#e71838;
+	color:#fff;
+	font-size:24px;
+	text-align:center;
+	
+}
+
+#data_bar{
+	width:100%;
+	height:97%;
+}
+
+#left_data_bar{
+	width:25%;
+	height:100%;
+	float:left;
+	background:#fff;
+	text-align:center;
+	font-size:18px;
+}
+
+#left_data_bar ul{
+	list-style:none;
+	background:#960;
+}
+
+#left_data_bar ul a{
+	color:#fff;
+	font-family: 'Dancing Script', cursive;
+	padding:0px;
+	margin:0px;
+}
+
+#left_data_bar ul a:hover{
+	color:#360;
+	font-family: 'Dancing Script', cursive;
+	padding:0px;
+	margin:0px;
+}
+
+
+#right_data_bar{
+	width:75%;
+	float:left;
+	height:100%;
+}
+
+h1{
+	padding:0;
+	margin:0;
+	background:#fff;
+}
+
+#insert_product_form_title{
+	width:250px;
+	height: 25px;
+	text-align: center;
+	font-size: 18px;
+	background: #B1AFAD;
+	outline: 0;
+	border: #fff;
+	color: #fff;
+	transition: 1s all;
+	}
+
+#insert_product_form_title:hover{
+	box-shadow: 0px 0px 10px 5px #3333333;
+	transition: 1s all;
+}
+
+#insert_product_form_cat{
+	width:250px;
+	height: 25px;
+	text-align: center;
+	font-size: 18px;
+	background: #B1AFAD;
+	outline: 0;
+	border: #fff;
+	color: #fff;
+	transition: 1s all;
+	}
+
+#insert_product_form_cat:hover{
+	box-shadow: 0px 0px 10px 5px #3333333;
+	transition: 1s all;
+}
+
+#insert_product_form_price{
+	width:250px;
+	height: 25px;
+	text-align: center;
+	font-size: 18px;
+	background: #B1AFAD;
+	outline: 0;
+	border: #fff;
+	color: #fff;
+	transition: 1s all;
+	}
+
+#insert_product_form_price:hover{
+	box-shadow: 0px 0px 10px 5px #3333333;
+	transition: 1s all;
+}
+
+#insert_product_form_desc{
+	width:250px;
+	height: 90px;
+	text-align: center;
+	font-size: 18px;
+	background:#CACACA;
+	outline: 0;
+	border: #fff;
+	color: #fff;
+	transition: 1s all;
+	}
+
+#insert_product_form_desc:hover{
+	box-shadow: 0px 0px 10px 5px #3333333;
+	transition: 1s all;
+}
+
+#insert_product_form_key{
+	width:250px;
+	height: 25px;
+	text-align: center;
+	font-size: 18px;
+	background: #B1AFAD;
+	outline: 0;
+	border: #fff;
+	color: #fff;
+	transition: 1s all;
+	}
+
+#insert_product_form_key:hover{
+	box-shadow: 0px 0px 10px 5px #3333333;
+	transition: 1s all;
+}
+
+#dec{
+	font-size: 20px;
+	color:#2D84DF;
+}
+
+#single_product{
+border:1px groove black;
+float:left;
+margin:10px 10px;
+margin-top:10px;
+width:210px;
+height:260px;
+}
+
+#single_product a{
+text-decoration:none;
+font-size:20px;
+}
+
+#modify{
+position:relative;
+top:50%;
+
+}
+
+#id_product{
+font-size: 20px;
+font-weight:500;
+
+}
+

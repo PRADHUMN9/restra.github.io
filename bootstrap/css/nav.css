@@ -1,0 +1,29 @@
+*{
+	margin:0px;
+	padding:0px;
+	}
+.container ul{
+	list-style:none;}
+
+.container ul li{
+	background-color:#06F;
+	line-height:40px;
+	float:left;
+	height:40px;
+	border:1px groove white;
+	border-radius:8px;
+	width:150px;
+	text-align:center;
+	font-size:20px;
+	color:white;
+	}
+	
+.container ul li:hover{
+	background-color:#9F0;
+	}
+	
+.container ul ul{
+	display:none;}
+	
+.container ul li:hover > ul{
+	display:block;}
